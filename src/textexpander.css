@@ -1,0 +1,19 @@
+.text1{
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+}
+
+.more{
+    color:  #0000ff;
+    cursor: pointer;
+}
+.less{
+    color: red;
+    cursor: pointer;
+}
+.text2{
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+}
